@@ -1,6 +1,6 @@
 *中文项目介绍：* [跳转](#项目简介)
 
-*English project intro: *[GoTo](#project-introduction)
+*English project intro:* [GoTo](#project-introduction)
 
 ---
 
@@ -145,5 +145,6 @@ Size of the compressed file `compressed.bin`: 1,051 bytes
 
 - Building the Huffman tree: O(nlogn) (n is the number of different characters, and the complexity of min - heap operations is O(logn)).
 - Encoding/Decoding: O(m) (m is the length of the text).
+
 
 
